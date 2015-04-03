@@ -1,0 +1,85 @@
+﻿﻿<?xml version="1.0" encoding="utf-8" ?>
+<PointsSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+			 xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Points>
+    <PointInfo Name="01VT_GC02AI-04.UNIT01@BLOCK1" Descr="GA1_F_Fakt"/>
+    <PointInfo Name="01VT_GC00A-105.UNIT01@BLOCK1" Descr="GA1_F_Zad"/>
+    <PointInfo Name="01VT_GC00A-019.UNIT01@BLOCK1" Descr="GA1_P_Zad"/>
+    <PointInfo Name="01VT_GC00A-024.UNIT01@BLOCK1" Descr="GA1_PF_Zad"/>
+    <PointInfo Name="01VT_LP02AO-03.UNIT01@BLOCK1" Descr="GA1_P_Fakt"/>
+    <PointInfo Name="01VT_GC03AI-04.UNIT01@BLOCK1" Descr="GA1_NA"/>
+    <PointInfo Name="11VT_GP01AP-136.UNIT@MCR" Descr="GA1_P_RGE"/>
+
+    <PointInfo Name="02VT_GC02AI-04.UNIT01@BLOCK1" Descr="GA2_F_Fakt"/>
+    <PointInfo Name="02VT_GC00A-105.UNIT01@BLOCK1" Descr="GA2_F_Zad"/>
+    <PointInfo Name="02VT_GC00A-019.UNIT01@BLOCK1" Descr="GA2_P_Zad"/>
+    <PointInfo Name="02VT_GC00A-024.UNIT01@BLOCK1" Descr="GA2_PF_Zad"/>
+    <PointInfo Name="02VT_LP02AO-03.UNIT01@BLOCK1" Descr="GA2_P_Fakt"/>
+    <PointInfo Name="02VT_GC03AI-04.UNIT01@BLOCK1" Descr="GA2_NA"/>
+    <PointInfo Name="11VT_GP01AP-136.UNIT@MCR" Descr="GA2_P_RGE"/>
+
+    <PointInfo Name="03VT_GC02AI-04.UNIT03@BLOCK2" Descr="GA3_F_Fakt"/>
+    <PointInfo Name="03VT_GC00A-105.UNIT03@BLOCK2" Descr="GA3_F_Zad"/>
+    <PointInfo Name="03VT_GC00A-019.UNIT03@BLOCK2" Descr="GA3_P_Zad"/>
+    <PointInfo Name="03VT_GC00A-024.UNIT03@BLOCK2" Descr="GA3_PF_Zad"/>
+    <PointInfo Name="03VT_LP02AO-03.UNIT03@BLOCK2" Descr="GA3_P_Fakt"/>
+    <PointInfo Name="03VT_GC03AI-04.UNIT03@BLOCK2" Descr="GA3_NA"/>
+    <PointInfo Name="11VT_GP02AP-136.UNIT@MCR" Descr="GA3_P_RGE"/>
+
+    <PointInfo Name="04VT_GC02AI-04.UNIT03@BLOCK2" Descr="GA4_F_Fakt"/>
+    <PointInfo Name="04VT_GC00A-105.UNIT03@BLOCK2" Descr="GA4_F_Zad"/>
+    <PointInfo Name="04VT_GC00A-019.UNIT03@BLOCK2" Descr="GA4_P_Zad"/>
+    <PointInfo Name="04VT_GC00A-024.UNIT03@BLOCK2" Descr="GA4_PF_Zad"/>
+    <PointInfo Name="04VT_LP02AO-03.UNIT03@BLOCK2" Descr="GA4_P_Fakt"/>
+    <PointInfo Name="04VT_GC03AI-04.UNIT03@BLOCK2" Descr="GA4_NA"/>
+    <PointInfo Name="11VT_GP02AP-136.UNIT@MCR" Descr="GA4_P_RGE"/>
+
+    <PointInfo Name="05VT_GC02AI-04.UNIT05@BLOCK3" Descr="GA5_F_Fakt"/>
+    <PointInfo Name="05VT_GC00A-105.UNIT05@BLOCK3" Descr="GA5_F_Zad"/>
+    <PointInfo Name="05VT_GC00A-019.UNIT05@BLOCK3" Descr="GA5_P_Zad"/>
+    <PointInfo Name="05VT_GC00A-024.UNIT05@BLOCK3" Descr="GA5_PF_Zad"/>
+    <PointInfo Name="05VT_LP02AO-03.UNIT05@BLOCK3" Descr="GA5_P_Fakt"/>
+    <PointInfo Name="05VT_GC03AI-04.UNIT05@BLOCK3" Descr="GA5_NA"/>
+    <PointInfo Name="11VT_GP03AP-136.UNIT@MCR" Descr="GA5_P_RGE"/>
+
+    <PointInfo Name="06VT_GC02AI-04.UNIT05@BLOCK3" Descr="GA6_F_Fakt"/>
+    <PointInfo Name="06VT_GC00A-105.UNIT05@BLOCK3" Descr="GA6_F_Zad"/>
+    <PointInfo Name="06VT_GC00A-019.UNIT05@BLOCK3" Descr="GA6_P_Zad"/>
+    <PointInfo Name="06VT_GC00A-024.UNIT05@BLOCK3" Descr="GA6_PF_Zad"/>
+    <PointInfo Name="06VT_LP02AO-03.UNIT05@BLOCK3" Descr="GA6_P_Fakt"/>
+    <PointInfo Name="06VT_GC03AI-04.UNIT05@BLOCK3" Descr="GA6_NA"/>
+    <PointInfo Name="11VT_GP03AP-136.UNIT@MCR" Descr="GA6_P_RGE"/>
+
+    <PointInfo Name="07VT_GC02AI-04.UNIT07@BLOCK4" Descr="GA7_F_Fakt"/>
+    <PointInfo Name="07VT_GC00A-105.UNIT07@BLOCK4" Descr="GA7_F_Zad"/>
+    <PointInfo Name="07VT_GC00A-019.UNIT07@BLOCK4" Descr="GA7_P_Zad"/>
+    <PointInfo Name="07VT_GC00A-024.UNIT07@BLOCK4" Descr="GA7_PF_Zad"/>
+    <PointInfo Name="07VT_LP02AO-03.UNIT07@BLOCK4" Descr="GA7_P_Fakt"/>
+    <PointInfo Name="07VT_GC03AI-04.UNIT07@BLOCK4" Descr="GA7_NA"/>
+    <PointInfo Name="11VT_GP04AP-136.UNIT@MCR" Descr="GA7_P_RGE"/>
+
+    <PointInfo Name="08VT_GC02AI-04.UNIT07@BLOCK4" Descr="GA8_F_Fakt"/>
+    <PointInfo Name="08VT_GC00A-105.UNIT07@BLOCK4" Descr="GA8_F_Zad"/>
+    <PointInfo Name="08VT_GC00A-019.UNIT07@BLOCK4" Descr="GA8_P_Zad"/>
+    <PointInfo Name="08VT_GC00A-024.UNIT07@BLOCK4" Descr="GA8_PF_Zad"/>
+    <PointInfo Name="08VT_LP02AO-03.UNIT07@BLOCK4" Descr="GA8_P_Fakt"/>
+    <PointInfo Name="08VT_GC03AI-04.UNIT07@BLOCK4" Descr="GA8_NA"/>
+    <PointInfo Name="11VT_GP04AP-136.UNIT@MCR" Descr="GA8_P_RGE"/>
+
+    <PointInfo Name="09VT_GC02AI-04.UNIT09@BLOCK5" Descr="GA9_F_Fakt"/>
+    <PointInfo Name="09VT_GC00A-105.UNIT09@BLOCK5" Descr="GA9_F_Zad"/>
+    <PointInfo Name="09VT_GC00A-019.UNIT09@BLOCK5" Descr="GA9_P_Zad"/>
+    <PointInfo Name="09VT_GC00A-024.UNIT09@BLOCK5" Descr="GA9_PF_Zad"/>
+    <PointInfo Name="09VT_LP02AO-03.UNIT09@BLOCK5" Descr="GA9_P_Fakt"/>
+    <PointInfo Name="09VT_GC03AI-04.UNIT09@BLOCK5" Descr="GA9_NA"/>
+    <PointInfo Name="11VT_GP04AP-136.UNIT@MCR" Descr="GA9_P_RGE"/>
+
+    <PointInfo Name="10VT_GC02AI-04.UNIT09@BLOCK5" Descr="GA10_F_Fakt"/>
+    <PointInfo Name="10VT_GC00A-105.UNIT09@BLOCK5" Descr="GA10_F_Zad"/>
+    <PointInfo Name="10VT_GC00A-019.UNIT09@BLOCK5" Descr="GA10_P_Zad"/>
+    <PointInfo Name="10VT_GC00A-024.UNIT09@BLOCK5" Descr="GA10_PF_Zad"/>
+    <PointInfo Name="10VT_LP02AO-03.UNIT09@BLOCK5" Descr="GA10_P_Fakt"/>
+    <PointInfo Name="10VT_GC03AI-04.UNIT09@BLOCK5" Descr="GA10_NA"/>
+    <PointInfo Name="11VT_GP04AP-136.UNIT@MCR" Descr="GA10_P_RGE"/>
+  </Points>
+</PointsSettings>

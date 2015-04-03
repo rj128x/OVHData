@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+			 xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<LogPath>C:/OVH/Logs</LogPath><!-- Путь к папке с лог файлами-->
+  <HoursUTC>5</HoursUTC><!-- Сдвиг по врмени от UTC-->
+  <PointsFile>Points.xml</PointsFile> <!-- Путь к файлу точек-->
+</Settings>	
